@@ -1,6 +1,6 @@
 # AllBooks
 
-AllBooks es una tienda virtual que vende libros de Casa do Código.
+AllBooks es una tienda virtual que vende libros de Casa del Código.
 Es un MVP que recién está comenzando y todavía tiene muchas funcionalidades nuevas por desarrollar.
 
 # JSONServer + JWT Auth
